@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Catálogo de películas</string>
+    <string name="app_name2">Tu perfil</string>
+    <string name="app_name3">Cambiar foto de perfil</string>
+    <string name="btn_camara">Subir</string>
+    <string name="iv_visor">visor</string>
+</resources>
